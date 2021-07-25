@@ -1,0 +1,8 @@
+.botoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
